@@ -10,7 +10,11 @@ export const SocketProvider = ({ children }) => {
       ? process.env.REACT_APP_DOMAIN_DEV
       : process.env.REACT_APP_DOMAIN_PROD
   );
-
+  console.log(
+    process.env.NODE_ENV === "development"
+      ? process.env.REACT_APP_DOMAIN_DEV
+      : process.env.REACT_APP_DOMAIN_PROD
+  );
   return (
     <SocketContext.Provider value={{ socket, online }}>
       {children}
