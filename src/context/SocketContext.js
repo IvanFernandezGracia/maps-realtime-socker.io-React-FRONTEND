@@ -6,12 +6,12 @@ export const SocketContext = createContext();
 
 export const SocketProvider = ({ children }) => {
   const { socket, online } = useSocket(
-    process.env.NODE_ENV === "development"
+    process.env.REACT_APP_ENV_MODE === "development"
       ? process.env.REACT_APP_DOMAIN_DEV
       : process.env.REACT_APP_DOMAIN_PROD
   );
   console.log(
-    process.env.NODE_ENV === "development"
+    process.env.REACT_APP_ENV_MODE === "development"
       ? process.env.REACT_APP_DOMAIN_DEV
       : process.env.REACT_APP_DOMAIN_PROD
   );
