@@ -25,44 +25,35 @@ https://docs.mapbox.com/api/search/geocoding/
       <th align="center">Skills</th>
       <th align="center">Skills</th>  
       <th align="center">Skills</th>
-      <th align="center">Skills</th>
     </tr>
         <td>
         <ul>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
+          <li>Mapbox Markers</li>
+          <li>RXJS - Subject</li>
+          <li>RXJS - Emmit Event</li>
+          <li>Observable Rxjs</li>
+          <li>Socket.io - Client</li>
+          <li>uuid</li>
         </ul>
       </td>    
         <td>
         <ul>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
+          <li>React</li>
+          <li>Custom Hooks Socket.io</li>
+          <li>useContext Socket.io</li>
+          <li>useRef</li>
+          <li>useEffect</li>
         </ul>
       </td>
         <td>
         <ul>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
+          <li>useCallback</li>
+          <li>useState</li>
+          <li>var?</li>
+          <li>dotenv DEV&PROD</li>
+          <li>CustomHook useMapbox</li>
         </ul>
-        </td>    
-        <td>
-         <ul>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
-          <li>Express</li>
-        </ul>
-      </td>
+        </td>   
   </tbody>
 </table>
 
