@@ -2,7 +2,7 @@
 DESCRIOPSCIUCOASDASASDASD
 
 ## WebPage (4 windows open)
-![image](https://user-images.githubusercontent.com/48660555/152697820-b2bcb449-31ed-4f97-b6a4-e3b5eea69f02.png)
+![image](https://user-images.githubusercontent.com/48660555/153350733-e5eae72a-fd67-4d5a-82b9-3c95a1560f09.png)
 
 ## Video (Real Time)
 ![image](https://user-images.githubusercontent.com/48660555/153350508-2b139379-062d-4b66-8455-7ccfdc0d5150.png)
